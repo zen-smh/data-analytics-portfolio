@@ -24,6 +24,13 @@ Analysed a telco's customer database (2,200 customers, 3 tables) to answer three
 
 *Skills: SQL (JOIN, GROUP BY, CTEs, LEFT JOIN, aggregation), metric definition, churn analysis, data visualisation.*
 
+### 3. Delivery performance dashboard (Tableau)
+[`/project-3-logistics-dashboard`](project-3-logistics-dashboard)
+
+Built an interactive Tableau dashboard for a freight company, analysing 4,200 deliveries to show on-time rate, cost per delivery, and the underperforming depot. Found one depot (**Wiri**) was both the **worst on-time (78.6%)** and the **most expensive ($57.78/delivery)** — a focused, actionable recommendation rather than a network-wide fix.
+
+*Skills: Tableau, calculated fields, dashboard design, operational analytics, turning data into recommendations.*
+
 ---
 
 ## About
