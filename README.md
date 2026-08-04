@@ -2,8 +2,8 @@
 
 **Data Analyst · AI Workflow Specialist** — Bangkok, Thailand → relocating to New Zealand
 
-🌐 **[View the portfolio website →](https://zen-smh.github.io/data-analytics-portfolio)**
-📄 **[Cover Letter + CV (PDF)](SanMyintHlaing_CoverLetter_and_Resume.pdf)** · 📧 smh.zantury1827@gmail.com
+🌐 **[View the portfolio website →](https://zen-smh.github.io)**
+📄 **[Download CV](https://zen-smh.github.io/SanMyintHlaing_Resume.pdf)** · **[Cover Letter](https://zen-smh.github.io/SanMyintHlaing_CoverLetter.pdf)** · 📧 smh.zantury1827@gmail.com
 
 ---
 
@@ -54,6 +54,6 @@ Built an interactive Excel tracker consolidating service agreements, purchase or
 ## Contact
 
 - 📧 **Email:** smh.zantury1827@gmail.com
-- 🌐 **Portfolio:** [zen-smh.github.io/data-analytics-portfolio](https://zen-smh.github.io/data-analytics-portfolio)
+- 🌐 **Portfolio:** [zen-smh.github.io](https://zen-smh.github.io)
 - 💼 **Status:** Open to Data Analyst roles in New Zealand · requires visa sponsorship · available now
 - 🌏 **Languages:** English (fluent) · Thai (native) · Burmese (native)
