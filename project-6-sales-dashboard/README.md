@@ -4,8 +4,6 @@ Built an interactive Tableau dashboard for a 5-store retail chain — revenue an
 
 **Tools:** Tableau (dashboards, calculated fields, interactive filters)
 
-🔗 **Live dashboard:** _paste your Tableau Public link here_
-
 ---
 
 ## The problem
@@ -13,8 +11,6 @@ Built an interactive Tableau dashboard for a 5-store retail chain — revenue an
 The Head of Retail was tired of requesting numbers and wanted a single self-service view to explore sales across 5 stores and 5 categories — by region, store, category and over time.
 
 ## What it shows
-
-![Sales dashboard](sales_dashboard.png)
 
 - **Total revenue: $6,067,370** across **39,060 units** sold.
 - Revenue is **well balanced across categories** — Electronics leads modestly at **$1.25M**, with Grocery, Home, Beauty and Apparel each close behind (~$1.17–1.22M). No single category is carrying the business.
@@ -28,11 +24,9 @@ The headline isn't one weak spot to fix — it's a **balanced, healthy spread**,
 - Created KPI summary tiles (total revenue, total units).
 - Built linked views: revenue by category, revenue by store, and a monthly trend line.
 - Combined them into one dashboard and added **region, store and category filters** applied across all worksheets for true self-service.
-- Published to Tableau Public for a live, shareable link.
 
 ## Files
 
-- `sales_dashboard.png` — dashboard screenshot
 - `FINDINGS.md` — detailed findings memo
 - `data/retail_sales.csv` — source data (6,000 sales)
 
