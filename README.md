@@ -1,40 +1,59 @@
-# ZEN — Data Analytics Portfolio
+# San Myint Hlaing (Zen) — Data Analytics Portfolio
 
-Aspiring data analyst building practical, end-to-end analytics skills. Each project below is a realistic business scenario worked from messy raw data to a clear, decision-ready recommendation — the way the job is actually done.
+**Data Analyst · AI Workflow Specialist** — Bangkok, Thailand → relocating to New Zealand
 
-**Core skills:** SQL · Excel (PivotTables, data cleaning) · data reconciliation · data visualisation · turning analysis into recommendations for non-technical stakeholders.
+🌐 **[View the portfolio website →](https://zen-smh.github.io/data-analytics-portfolio)**
+📄 **[Cover Letter + CV (PDF)](SanMyintHlaing_CoverLetter_and_Resume.pdf)** · 📧 smh.zantury1827@gmail.com
 
-**Tools:** SQL (SQLite) · Excel · Tableau · Python (in progress) · GitHub
+---
+
+I'm a Computer Science graduate specialising in Data Engineering. Since February 2025 I've worked as a freelance data analyst on independent, end-to-end projects — each one a realistic business scenario taken from raw, messy data through to a recommendation a manager can act on.
+
+I focus on the **judgment behind the analysis** — defining the metric under ambiguity, cleaning data honestly, comparing rates rather than raw counts, and separating correlation from causation — not just the tooling.
+
+**Core skills:** SQL (JOINs, CTEs, window functions) · Python (pandas, statsmodels) · Tableau · Excel (advanced) · data cleaning · reconciliation · hypothesis testing · forecasting · stakeholder reporting
+
+**AI workflow:** Claude · ChatGPT · Cursor · GitHub Copilot — used daily for Text-to-SQL, query validation, faster wrangling and first-draft reporting. Every output is validated against the raw data before it reaches a stakeholder.
 
 ---
 
 ## Projects
 
-### 1. Retail revenue reconciliation
-[`/project-1-retail-reconciliation`](project-1-retail-reconciliation)
+| # | Project | Headline result | Skills |
+|---|---------|-----------------|--------|
+| 01 | [Retail Revenue Reconciliation](project-1-retail-reconciliation) | Explained a **$170,995** discrepancy in full | Excel, PivotTables, reconciliation, root-cause analysis |
+| 02 | [Customer Churn Analysis](project-2-churn-analysis) | Churn had **tripled** in 12 months | SQL, CTEs, JOINs, conditional aggregation |
+| 03 | [Delivery Performance Dashboard](project-3-logistics-dashboard) | Found the one depot at **78.6% on-time** | Tableau, calculated fields, dashboard design |
+| 04 | [Data Cleaning & Impact Analysis](project-4-python-data-cleaning) | **+0.97** wellbeing gain across 320 responses | Python, pandas, multi-source cleaning |
+| 05 | [E-commerce Sales Analysis](project-5-ecommerce-sql-analysis) | **$1.8M** revenue; ~50% from one category | SQL, 4-table JOINs, window functions |
+| 06 | [Retail Sales Dashboard](project-6-sales-dashboard) | **$6.07M** across 5 stores, evenly spread | Tableau, KPIs, interactive filters |
+| 07 | [Checkout A/B Test](project-7-ab-test-analysis) | **+29%** lift, p = 0.00002 | Python, hypothesis testing, z-test |
+| 08 | [Customer Segmentation (RFM)](project-8-customer-segmentation) | **36%** of customers flagged at-risk | Python, RFM scoring, quantiles |
+| 09 | [Sales Forecasting](project-9-sales-forecasting) | **+42%** growth, reliable Nov–Dec peak | Python, statsmodels, Holt-Winters |
 
-Two reports disagreed on a retailer's monthly revenue by **$170,995**. I reconciled both against the raw point-of-sale data, identified the correct figure, and traced the gap to two root causes — a store dropped after a mid-month rename, and a report exported before month-end.
+Each project folder contains a `README.md` explaining the problem, the result and the method, plus the analysis files, source data and visualisations.
 
-*Skills: Excel PivotTables, data cleaning, reconciliation, root-cause analysis, waterfall visualisation, stakeholder reporting.*
-
-### 2. Customer churn analysis (SQL)
-[`/project-2-churn-analysis`](project-2-churn-analysis)
-
-Analysed a telco's customer database (2,200 customers, 3 tables) to answer three questions for the Head of Growth: is churn getting worse, what's driving it, and does support contact predict it. Found churn had **tripled over 12 months**, concentrated in one plan and one region, with support contact a strong warning sign.
-
-*Skills: SQL (JOIN, GROUP BY, CTEs, LEFT JOIN, aggregation), metric definition, churn analysis, data visualisation.*
-
-### 3. Delivery performance dashboard (Tableau)
-[`/project-3-logistics-dashboard`](project-3-logistics-dashboard)
-
-Built an interactive Tableau dashboard for a freight company, analysing 4,200 deliveries to show on-time rate, cost per delivery, and the underperforming depot. Found one depot (**Wiri**) was both the **worst on-time (78.6%)** and the **most expensive ($57.78/delivery)** — a focused, actionable recommendation rather than a network-wide fix.
-
-*Skills: Tableau, calculated fields, dashboard design, operational analytics, turning data into recommendations.*
+*A capstone using real New Zealand open data is currently in progress and will be added here.*
 
 ---
 
-## About
+## Experience
 
-Training toward a data analyst career and a master's in data analytics in New Zealand. I focus on the judgment behind the analysis — defining metrics, cleaning data honestly, comparing rates not raw counts, and separating correlation from causation — not just the tooling.
+**Freelance Data Analyst — Independent Projects** · Feb 2025 – Present
+Nine end-to-end analytics projects across SQL, Python, Tableau and Excel — from raw data to stakeholder-ready recommendations.
 
-*Each project folder contains a README, the analysis files, the source data, and the visualisations.*
+**Infrastructure Management & Operations Intern** · Mercedes-Benz Thailand · Aug 2024 – Jan 2025
+Built an interactive Excel tracker consolidating service agreements, purchase orders and invoices, shifting IT budget variance reporting from reactive month-end reviews to proactive early detection.
+
+**B.Sc. Computer Science (Data Engineering)** · Assumption University, Thailand · 2021 – 2025
+
+**Certifications:** Oracle Database SQL Certified Associate · Google Project Management Professional Certificate
+
+---
+
+## Contact
+
+- 📧 **Email:** smh.zantury1827@gmail.com
+- 🌐 **Portfolio:** [zen-smh.github.io/data-analytics-portfolio](https://zen-smh.github.io/data-analytics-portfolio)
+- 💼 **Status:** Open to Data Analyst roles in New Zealand · requires visa sponsorship · available now
+- 🌏 **Languages:** English (fluent) · Thai (native) · Burmese (native)
