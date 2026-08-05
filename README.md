@@ -1,10 +1,6 @@
 # San Myint Hlaing (Zen) — Data Analytics Portfolio
 
 **Data Analyst · AI Workflow Specialist** — Bangkok, Thailand → relocating to New Zealand
-
-🌐 **[View the portfolio website →](https://zen-smh.github.io)**
-📄 **[Download CV](https://zen-smh.github.io/SanMyintHlaing_Resume.pdf)** · **[Cover Letter](https://zen-smh.github.io/SanMyintHlaing_CoverLetter.pdf)** · 📧 smh.zantury1827@gmail.com
-
 ---
 
 I'm a Computer Science graduate specialising in Data Engineering. Since February 2025 I've worked as a freelance data analyst on independent, end-to-end projects — each one a realistic business scenario taken from raw, messy data through to a recommendation a manager can act on.
